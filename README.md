@@ -8,6 +8,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/harshith-siddardha"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://manneharshithsiddardha.com"><img src="https://img.shields.io/badge/Portfolio-Live_Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%2300FF00" alt="Portfolio"/></a>
+  <a href="https://manneharshithsiddardha.com/Harshith_Manne_Cloud_DevOps_Engineer_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-%23E34F26.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:harshith.siddardha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
 #
 
 ### 🚀 About Me
@@ -16,8 +23,57 @@
 - 💡 Exploring **Serverless architectures, Advanced Cloud Security (NIST CSF), and Generative AI**
 - 🎓 Master of Science in Information Technology @ **Arizona State University** (4.0 GPA)
 - 🎓 Bachelor of Technology in Computer Science @ **JNTU Kakinada**
-- 🔗 Check out my interactive animated cloud portfolio: [manneharshithsiddardha.com](https://manneharshithsiddardha.com)
-- 📫 Reach me out: **harshith.siddardha@gmail.com**
+
+#
+
+### 💼 Experience
+
+<details>
+  <summary><b>Associate Data Scientist (Cloud & DevOps)</b> @ Deep Algorithms & Solutions <i>(May 2023 - May 2024)</i></summary>
+  <ul>
+    <li>Architected and deployed secure, scalable 3-tier VPC infrastructure using Terraform and CloudFormation.</li>
+    <li>Containerized Python-Flask backend services using Docker and deployed to ECS with Fargate.</li>
+    <li>Improved deployment efficiency by 45% through optimized Dockerfiles and streamlined CI/CD pipelines.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Associate Software Developer Intern</b> @ Backflipt Xenovous, Inc. <i>(Jan 2023 - Apr 2023)</i></summary>
+  <ul>
+    <li>Utilized Reactive Spring Boot to develop responsive applications.</li>
+    <li>Collaborated with senior developers to implement key React Native features such as state management with Redux.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Data Science / Cloud Intern</b> @ Deep Algorithms & Solutions <i>(Jan 2021 - May 2022)</i></summary>
+  <ul>
+    <li>Automated deployment of Flask applications to EC2 and ECS environments.</li>
+    <li>Automated Linux-based system maintenance and log parsing with Bash scripts, enhancing troubleshooting efficiency by 30%.</li>
+  </ul>
+</details>
+
+#
+
+### 🎓 Education
+
+🎓 **Master of Science in Information Technology**  
+*Arizona State University (Aug 2024 - Present)*  
+- **GPA:** 4.0 / 4.0
+
+🎓 **Bachelor of Technology in Computer Science**  
+*JNTU Kakinada (2019 - May 2023)*  
+- **GPA:** 3.7 / 4.0  
+- **Honors:** First Class with Distinction
+
+#
+
+### 🏆 Certifications
+
+- AWS Academy Graduate - Cloud Security Foundations *(Expected: Oct 2025)*
+- AWS Academy Graduate - Cloud Operations *(Expected: Oct 2025)*
+- AWS Academy Graduate - Cloud Architecting *(Expected: Apr 2025)*
+- AWS Cloud Quest: Cloud Practitioner *(Dec 2024)*
 
 #
 
