@@ -1,6 +1,5 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harshith%20Siddardha&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descAlign=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Harshith%20Siddardha&fontSize=50&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer&descSize=24" width="100%" alt="Header" />
 </div>
 
 <p align="center">
