@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Harshith%20Siddardha&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Cloud%20%E2%9C%A6%20DevOps%20%E2%9C%A6%20AI%20Engineer&descAlignY=62&descAlign=50&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Harshith%20Siddardha&fontSize=50&fontAlignY=42&animation=twinkling&fontColor=ffffff&desc=Cloud%20%E2%9C%A6%20DevOps%20%E2%9C%A6%20AI%20Engineer&descAlignY=68&descAlign=50&descSize=20" alt="banner" />
 </div>
 
 <p align="center">
