@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Harshith%20Siddardha&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cloud%20%E2%9C%A6%20DevOps%20%E2%9C%A6%20AI%20Engineer&descAlignY=60&descAlign=50&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=Harshith%20Siddardha&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Cloud%20%E2%9C%A6%20DevOps%20%E2%9C%A6%20AI%20Engineer&descAlignY=62&descAlign=50&descSize=18" alt="banner" />
 </div>
 
 <p align="center">
@@ -73,11 +73,13 @@ const harshith = {
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://aithrex.tech">
-        <img src="https://github.com/Aithrex.png" width="84" height="84" style="border-radius:50%" alt="Aithrex" /><br/>
-        <b>Aithrex</b> &nbsp;<a href="https://aithrex.tech"><img src="https://img.shields.io/badge/aithrex.tech-12c2e9?style=flat-square&labelColor=0d1117" /></a><br/>
-        <sub><i>"Cloud, operated by autonomous AI"</i></sub>
-      </a>
+      <a href="https://aithrex.tech"><img src="https://github.com/Aithrex.png" width="84" height="84" alt="Aithrex" /></a>
+      <br/><br/>
+      <a href="https://aithrex.tech"><b>Aithrex</b></a>
+      <br/>
+      <a href="https://aithrex.tech"><img src="https://img.shields.io/badge/aithrex.tech-12c2e9?style=flat-square&labelColor=0d1117" /></a>
+      <br/>
+      <sub><i>"Cloud, operated by autonomous AI"</i></sub>
       <p align="left"><sub>
         My venture. Building <b>cost-optimal autonomous agents</b> that operate inside customer AWS
         accounts — not just observe.<br/>
@@ -88,11 +90,13 @@ const harshith = {
       </sub></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/gnanalytica">
-        <img src="https://github.com/gnanalytica.png" width="84" height="84" style="border-radius:50%" alt="Gnanalytica" /><br/>
-        <b>Gnanalytica</b> &nbsp;<img src="https://img.shields.io/badge/data%20%C2%B7%20AI-c471ed?style=flat-square&labelColor=0d1117" /><br/>
-        <sub><i>Agentic systems &amp; product engineering</i></sub>
-      </a>
+      <a href="https://github.com/gnanalytica"><img src="https://github.com/gnanalytica.png" width="84" height="84" alt="Gnanalytica" /></a>
+      <br/><br/>
+      <a href="https://github.com/gnanalytica"><b>Gnanalytica</b></a>
+      <br/>
+      <img src="https://img.shields.io/badge/data%20%C2%B7%20AI-c471ed?style=flat-square&labelColor=0d1117" alt="data · AI" />
+      <br/>
+      <sub><i>Agentic systems &amp; product engineering</i></sub>
       <p align="left"><sub>
         Full-stack contributor — shipping across the surface:<br/>
         • <b>Backend &amp; frontend vibe-coding</b> — fast iteration on real product<br/>
@@ -102,11 +106,13 @@ const harshith = {
       </sub></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/AurumConnect">
-        <img src="https://github.com/AurumConnect.png" width="84" height="84" style="border-radius:50%" alt="AurumConnect" /><br/>
-        <b>AurumConnect</b> &nbsp;<img src="https://img.shields.io/badge/platform%20eng-f7971e?style=flat-square&labelColor=0d1117" /><br/>
-        <sub><i>Multi-tenant serverless on AWS</i></sub>
-      </a>
+      <a href="https://github.com/AurumConnect"><img src="https://github.com/AurumConnect.png" width="84" height="84" alt="AurumConnect" /></a>
+      <br/><br/>
+      <a href="https://github.com/AurumConnect"><b>AurumConnect</b></a>
+      <br/>
+      <img src="https://img.shields.io/badge/platform%20eng-f7971e?style=flat-square&labelColor=0d1117" alt="platform eng" />
+      <br/>
+      <sub><i>Multi-tenant serverless on AWS</i></sub>
       <p align="left"><sub>
         Platform contributions:<br/>
         • Multi-tenant serverless patterns &amp; auth surfaces<br/>
