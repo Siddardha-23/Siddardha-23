@@ -73,40 +73,53 @@ const harshith = {
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/aithrex">
-        <img src="https://img.shields.io/badge/Aithrex-12c2e9?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" /><br/>
-        <sub><b>My venture</b></sub>
+      <a href="https://aithrex.tech">
+        <img src="https://github.com/Aithrex.png" width="84" height="84" style="border-radius:50%" alt="Aithrex" /><br/>
+        <b>Aithrex</b> &nbsp;<a href="https://aithrex.tech"><img src="https://img.shields.io/badge/aithrex.tech-12c2e9?style=flat-square&labelColor=0d1117" /></a><br/>
+        <sub><i>"Cloud, operated by autonomous AI"</i></sub>
       </a>
-      <p><sub>
-        Building the public face + product surface — pinned on my portfolio as a hero card.
-        Resume AI &amp; Jobs-Pipeline tooling spun out of work here.
+      <p align="left"><sub>
+        My venture. Building <b>cost-optimal autonomous agents</b> that operate inside customer AWS
+        accounts — not just observe.<br/>
+        • <b>Infratrix</b> — AI architect optimizing cloud cost &amp; reliability via Terraform PRs<br/>
+        • <b>Operandi</b> — cloud ops &amp; incident-response agent<br/>
+        • <b>Aegis</b> — cloud security posture management<br/>
+        Architecture-as-graph reasoning · review-first execution · verified savings vs 30-day billing baselines.
       </sub></p>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/gnanalytica">
-        <img src="https://img.shields.io/badge/Gnanalytica-c471ed?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" /><br/>
-        <sub><b>Data &amp; analytics</b></sub>
+        <img src="https://github.com/gnanalytica.png" width="84" height="84" style="border-radius:50%" alt="Gnanalytica" /><br/>
+        <b>Gnanalytica</b> &nbsp;<img src="https://img.shields.io/badge/data%20%C2%B7%20AI-c471ed?style=flat-square&labelColor=0d1117" /><br/>
+        <sub><i>Agentic systems &amp; product engineering</i></sub>
       </a>
-      <p><sub>
-        Cloud infrastructure, CI/CD &amp; observability — translating analytics workloads
-        into IaC-managed, Datadog-instrumented services.
+      <p align="left"><sub>
+        Full-stack contributor — shipping across the surface:<br/>
+        • <b>Backend &amp; frontend vibe-coding</b> — fast iteration on real product<br/>
+        • <b>Agentic systems</b> — multi-step LLM workflows wired into business ops<br/>
+        • <b>Standup AI</b> — agent that runs the daily standup loop end-to-end<br/>
+        Cloud infra, CI/CD &amp; Datadog observability under it all.
       </sub></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/aurumconnect">
-        <img src="https://img.shields.io/badge/AurumConnect-f7971e?style=for-the-badge&logo=goldenline&logoColor=white&labelColor=0d1117" /><br/>
-        <sub><b>Platform engineering</b></sub>
+      <a href="https://github.com/AurumConnect">
+        <img src="https://github.com/AurumConnect.png" width="84" height="84" style="border-radius:50%" alt="AurumConnect" /><br/>
+        <b>AurumConnect</b> &nbsp;<img src="https://img.shields.io/badge/platform%20eng-f7971e?style=flat-square&labelColor=0d1117" /><br/>
+        <sub><i>Multi-tenant serverless on AWS</i></sub>
       </a>
-      <p><sub>
-        Multi-tenant serverless patterns on AWS — auth, billing surfaces, and the
-        secure-by-default Terraform modules that ride along with them.
+      <p align="left"><sub>
+        Platform contributions:<br/>
+        • Multi-tenant serverless patterns &amp; auth surfaces<br/>
+        • Secure-by-default Terraform modules<br/>
+        • Billing / metering plumbing that rides along with the platform<br/>
+        Same review-first, IaC-managed playbook I run everywhere.
       </sub></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub><i>Want a deeper look at any of these? Ping me — most of the work lives in private orgs.</i></sub>
+  <sub><i>Most of the work lives in private orgs — ping me for a deeper look.</i></sub>
 </p>
 
 ---
@@ -114,13 +127,18 @@ const harshith = {
 ### 📊 &nbsp; GitHub at a glance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddardha-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=E6EDF3&text_color=7D8590&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Siddardha-23&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=E6EDF3&currStreakNum=E6EDF3&sideLabels=7D8590&sideNums=E6EDF3&dates=7D8590" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddardha-23&theme=tokyonight" />
+  <img height="190" src="https://streak-stats.demolab.com/?user=Siddardha-23&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=E6EDF3&currStreakNum=E6EDF3&sideLabels=7D8590&sideNums=E6EDF3&dates=7D8590" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddardha-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=7D8590&langs_count=8" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddardha-23&theme=tokyonight" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddardha-23&theme=tokyonight&utcOffset=-7" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddardha-23&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddardha-23&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -264,18 +282,20 @@ const harshith = {
 
 <p align="center">
   <a href="https://github.com/Siddardha-23/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddardha-23&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=E6EDF3&text_color=7D8590" />
+    <img width="46%" src="https://socialify.git.ci/Siddardha-23/portfolio/image?language=1&owner=1&name=1&stargazers=1&theme=Dark&pattern=Circuit+Board&font=Inter" alt="portfolio" />
   </a>
+  &nbsp;
   <a href="https://github.com/Siddardha-23/aws-cicd-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddardha-23&repo=aws-cicd-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=E6EDF3&text_color=7D8590" />
+    <img width="46%" src="https://socialify.git.ci/Siddardha-23/aws-cicd-pipeline/image?language=1&owner=1&name=1&stargazers=1&theme=Dark&pattern=Circuit+Board&font=Inter" alt="aws-cicd-pipeline" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Siddardha-23/SmartClipboardAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddardha-23&repo=SmartClipboardAI&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=E6EDF3&text_color=7D8590" />
+    <img width="46%" src="https://socialify.git.ci/Siddardha-23/SmartClipboardAI/image?language=1&owner=1&name=1&stargazers=1&theme=Dark&pattern=Circuit+Board&font=Inter" alt="SmartClipboardAI" />
   </a>
+  &nbsp;
   <a href="https://github.com/Siddardha-23/flask-rest-ecs-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddardha-23&repo=flask-rest-ecs-app&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=E6EDF3&text_color=7D8590" />
+    <img width="46%" src="https://socialify.git.ci/Siddardha-23/flask-rest-ecs-app/image?language=1&owner=1&name=1&stargazers=1&theme=Dark&pattern=Circuit+Board&font=Inter" alt="flask-rest-ecs-app" />
   </a>
 </p>
 
